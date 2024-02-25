@@ -1,0 +1,13 @@
+happy
+surprise
+fear
+happy
+surprise
+angry
+surprise
+surprise
+fear
+neutral
+happy
+sad
+fear
